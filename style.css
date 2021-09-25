@@ -4,7 +4,11 @@ body {
     color: white;
 }
 
-h1{color:gray; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1 {
+    color:gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 .maindiv {
     background-color: white;
@@ -15,9 +19,13 @@ h1{color:gray; font-family: Verdana, Geneva, Tahoma, sans-serif;}
     margin: auto;
 }
 
+.calcdiv {
+    margin-left: 2em;
+}
+
 label {
     display: inline-block;
-    width: 150px;
+    width: 118px;
     text-align: left;
     margin-bottom: 10px;
 }
